@@ -27,3 +27,5 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ![](./images/Screenshot%202023-08-15%20193215.png)
 
 ## Video Walkthrough
+
+[Untitled_ Aug 15, 2023 7_24 PM.webm](https://github.com/rtm713/SocialNetworkAPI/assets/127454251/c003f945-1f15-4c8f-b432-34fd4e0d6a75)
